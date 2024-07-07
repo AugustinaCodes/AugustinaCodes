@@ -4,7 +4,7 @@
 Hello! I'm August from Vilnius, Lithuania 🇱🇹 and I'm a junior front-end developer!
 
 ## My Journey into Coding
-I began my coding journey in summer 2023 when I decided to make a significant career change. Back then I didn't feel satisfied with where I was at that point in my life and I knew that something had to change. So I decided to leave my home in London, and move back to Lithuania (talk about major life decisions!). I've received a scholarship from Code Academy in Vilnius and started my coding journey in October. For the next three months I explored JAVA, Python, PHP, SEO, Front-End and even UX Design. But the most exiting path was front-end development. So since January 2024, I dvelved deeper and learned all of the exiting aspects of front-end development. 
+I began my coding journey in summer 2023 when I decided to make a significant career change. Back then I didn't feel satisfied with where I was at that point in my life and I knew that something had to change. So I decided to leave my home in London, and move back to Lithuania (talk about major life decisions!). I've received a scholarship from Code Academy in Vilnius and started my coding journey in October. For the next three months I explored JAVA, Python, PHP, SEO, Front-End and even UX Design. But the most exiting path was front-end development. So since January 2024, I delved deeper and learned all of the exiting aspects of front-end development. 
 
 ## Why I’m Doing Coding
 Coding has opened up a new world for me. Here are a few reasons why I am passionate about coding:
