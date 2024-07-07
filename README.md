@@ -25,9 +25,9 @@ Here are some projects I've been working on:
 
 ## Connect with Me
 Feel free to reach out to me on:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/augustinabal/)
-- **Twitter**: [@yourhandle](https://x.com/August_Codes)
-- **Email**: [your.email@example.com](mailto:baugustina@gmail.com)
+- **LinkedIn**: [in/augustinabal](https://www.linkedin.com/in/augustinabal/)
+- **Twitter**: [@August_Codes](https://x.com/August_Codes)
+- **Email**: [email](mailto:baugustina@gmail.com)
 
 ## Goals
 My current goals include:
