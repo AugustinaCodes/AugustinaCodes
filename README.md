@@ -16,7 +16,7 @@ Coding has opened up a new world for me. Here are a few reasons why I am passion
 ## My Skills
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks**: React, Node.js
-- **Tools**: Git, 
+- **Tools**: Git, GitHub
 - **Databases**: MySQL, MongoDB
 
 ## Projects
