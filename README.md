@@ -33,5 +33,5 @@ Career transitioner from a creative field in video editing and marketing into te
 
 ## A peek on my GitHub stats 👀
 
-[![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustinaCodes&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustinaCodes&show_icons=true&theme=material-palenight)](https://github.com/augustinacodes/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustinaCodes&layout=compact&theme=material-palenight)
