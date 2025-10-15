@@ -21,6 +21,7 @@ Feel free to reach out to me on:
 - **Twitter**: [@August_Codes](https://x.com/August_Codes)
 - **Email**: [email](mailto:baugustina@gmail.com)
 
-# A peek on my GitHub stats 👀
+## A peek on my GitHub stats 👀
 
 [![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustinaCodes&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustinaCodes&layout=compact)
