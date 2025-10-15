@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 😊
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hey%20I%20am%20August&fontSize=90)
 
 ## About Me
 Hello! I'm August from Vilnius, Lithuania 🇱🇹 and I'm a junior front-end developer!
