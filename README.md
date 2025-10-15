@@ -21,3 +21,4 @@ Feel free to reach out to me on:
 - **Twitter**: [@August_Codes](https://x.com/August_Codes)
 - **Email**: [email](mailto:baugustina@gmail.com)
 
+![footer](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=footer)
